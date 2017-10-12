@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+pod 'AFNetworking', '~> 2.3'
+
 ## Installation
 
 JoBaseComm is available through [CocoaPods](http://cocoapods.org). To install
