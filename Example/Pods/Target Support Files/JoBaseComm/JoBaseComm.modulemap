@@ -1,0 +1,6 @@
+framework module JoBaseComm {
+  umbrella header "JoBaseComm-umbrella.h"
+
+  export *
+  module * { export * }
+}

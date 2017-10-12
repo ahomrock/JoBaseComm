@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'JoBaseComm_Example' do
+  pod 'JoBaseComm', :path => '../'
+  pod 'AFNetworking', '~> 2.3'
+  target 'JoBaseComm_Tests' do
+    inherit! :search_paths
+
+  end
+end
